@@ -1,0 +1,8 @@
+{
+  "type": "text",
+  "text": "My Server",
+  "size": 20,
+  "color": "#FFFFFF",
+  "align": "center",
+  "position": [0, -50]
+}
